@@ -1,5 +1,8 @@
 # Desktop GMT - Minimalist Time Zone Converter
 
+![Desktop GMT Preview](display.png)
+
+
 A sleek, minimalist desktop application for tracking time across different time zones. Built with Tauri, Svelte, and Rust, Desktop GMT combines elegant design with efficient performance.
 
 ## Features

@@ -56,17 +56,30 @@ Prerequisites:
 - Tauri CLI
 
 Clone the repository:
+
+``` bash
 git clone https://github.com/forever8896/desktop-gmt.git
-cd desktop-gmt
+
+cd desktop-gmt 
+```
 
 Install dependencies:
+
+``` bash
 npm install
+```
 
 Run in development mode:
+
+``` bash
 npm run tauri dev
+```
 
 Build for production:
+
+``` bash
 npm run tauri build
+```
 
 ## Technical Stack
 

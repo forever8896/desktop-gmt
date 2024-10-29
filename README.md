@@ -48,8 +48,7 @@ The main display shows:
 
 Download the latest release for your operating system:
 - Windows (.exe)
-- macOS (.dmg)
-- Linux (.AppImage)
+
 
 ## Development
 

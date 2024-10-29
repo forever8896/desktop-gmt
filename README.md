@@ -47,7 +47,7 @@ The main display shows:
 ## Installation
 
 Download the latest release for your operating system:
-- Windows (.msi)
+- Windows (.exe)
 - macOS (.dmg)
 - Linux (.AppImage)
 
